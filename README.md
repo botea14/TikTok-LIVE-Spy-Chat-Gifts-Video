@@ -73,5 +73,6 @@ Tray Icon: The app should minimizes to the system tray. Should use the tray icon
 # 📖 License
 This project is licensed under the MIT License.
 
+
 # Support
 Join [Discord](https://discord.gg/xsVjvtg8rg)
