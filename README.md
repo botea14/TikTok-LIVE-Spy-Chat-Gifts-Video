@@ -13,5 +13,6 @@ Portable .exe Windows app which opens http://localhost:3456 host where you can c
 ![image](https://github.com/user-attachments/assets/db8d1004-8cdc-464a-9660-82c2bc13258e)
 
 ## Video Player Size
-![image](https://github.com/user-attachments/assets/ecada164-99b5-4a7b-817d-0cfa537e16cb) ![image](https://github.com/user-attachments/assets/f6ab6d91-248e-4126-ae69-0fa8411c128b)
+![image](https://github.com/user-attachments/assets/ecada164-99b5-4a7b-817d-0cfa537e16cb) ![image](https://github.com/user-attachments/assets/f6ab6d91-248e-4126-ae69-0fa8411c128b) ![image](https://github.com/user-attachments/assets/54843c2e-718c-4225-8711-1d17c47a6b48)
+
 
