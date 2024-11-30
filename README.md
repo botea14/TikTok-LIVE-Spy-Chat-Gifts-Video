@@ -66,7 +66,7 @@ Video Player Controls: Manage the video player's visibility and size with ease.
 Simple Interface: A clean and user-friendly dashboard hosted at http://localhost:3456.
 
 
-# 🔧 To do..
+# 🔧 To do list..
 Tray Icon: The app should minimizes to the system tray. Should use the tray icon to show or quit the app.
 
 
