@@ -36,19 +36,22 @@ Control TikTok live features such as Chat, Gifts, and Videos.
 # 📸 Screenshots
 ### 1. Connection State & Action Box
 Control TikTok Chat, Gifts, and LIVE/Video Actions easily with intuitive buttons:
-
+![image](https://github.com/user-attachments/assets/41a6b801-cf54-479d-af98-73c0261e87ee)
 
 
 ### 2. Video Player Modes
 Switch between Hidden, Minimized, or Full-Screen modes for the video player:
 
 ### Hidden
+![image](https://github.com/user-attachments/assets/f6fa47a5-e7d4-493c-b750-f4bd8f2a9716)
 
 
 ### Minimized
+![image](https://github.com/user-attachments/assets/205ac63e-15a5-4abd-b351-f3206bea2e5f)
 
 
 ### Full Screen
+![image](https://github.com/user-attachments/assets/a8ba696c-104e-4dc4-8f8c-dc0f42cd1165)
 
 
 # 🛠️ Features
