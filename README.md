@@ -6,6 +6,11 @@ Portable .exe Windows app which opens http://localhost:3456 host where you can c
 ### Open App
 ### Open Browser on http://localhost:3456
 
+# Screenshots
+
+## Connection State
+![image](https://github.com/user-attachments/assets/b1c3b1ce-1a02-41fe-a3ac-c8b6cbcba740)
+
 ## Action Box for Chat & Gifts
 ![image](https://github.com/user-attachments/assets/eec57443-56ec-454a-945f-5f813a315b7b)
 
