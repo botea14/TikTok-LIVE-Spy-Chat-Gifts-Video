@@ -14,10 +14,12 @@ Portable .exe Windows app which opens http://localhost:3456 host where you can c
 
 ## Video Player Size
 ### Hidden
-![image](https://github.com/user-attachments/assets/0ef7e16d-866a-4771-ab1a-94f80f712977) 
+![image](https://github.com/user-attachments/assets/58374e9d-4e3c-4ed2-894a-85b968b53644)
+
 ### Minimized 
-![image](https://github.com/user-attachments/assets/f6ab6d91-248e-4126-ae69-0fa8411c128b) 
+![image](https://github.com/user-attachments/assets/0e77602d-0536-4b99-81a1-0b15fe72941b)
+
 ### Full Screen 
-![image](https://github.com/user-attachments/assets/54843c2e-718c-4225-8711-1d17c47a6b48)
+![image](https://github.com/user-attachments/assets/30bd6b82-eaa7-43c8-932b-5b2efbc00d0a)
 
 
