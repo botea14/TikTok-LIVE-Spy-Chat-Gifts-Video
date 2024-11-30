@@ -1,6 +1,7 @@
 
 # TikTok-LIVE-Spy-Chat-Gifts-Video
-A Portable .exe Windows app that opens a local host at http://localhost:3456, where you can control the TikTok SPY Tool. This tool tracks TikTok live chats, gifts, and videos, offering a simple and efficient interface for control and interaction.
+A Portable .exe Windows app that opens a local host at http://localhost:3456, where you can control the TikTok SPY Tool. 
+This tool tracks TikTok live chats, gifts, and videos, offering a simple and efficient interface for control and interaction.
 
 # 📥 Download the App
 Click the link below to download the app for FREE:
