@@ -56,14 +56,19 @@ Switch between Hidden, Minimized, or Full-Screen modes for the video player:
 
 # 🛠️ Features
 Portable App: No installation required. Just run the .exe file.
+
 Chat Monitoring: Track TikTok live chats in real time.
+
 Gift Tracking: Get insights on gifts sent during TikTok live streams.
+
 Video Player Controls: Manage the video player's visibility and size with ease.
+
 Simple Interface: A clean and user-friendly dashboard hosted at http://localhost:3456.
 
-# 🔧 Notes
-Tray Icon: The app minimizes to the system tray. Use the tray icon to show or quit the app.
-App Close: To fully close the app, use the "Quit" option in the tray menu or Task Manager.
+
+# 🔧 To do..
+Tray Icon: The app should minimizes to the system tray. Should use the tray icon to show or quit the app.
+
 
 # 📖 License
 This project is licensed under the MIT License.
