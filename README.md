@@ -2,8 +2,8 @@
 Portable .exe Windows app which opens http://localhost:3456 host where you can controll the SPY Tool
 
 ## Instructions
-### Download App
-Link
+### Download App FREE
+![Download FREE](https://robotok.tip4serv.com/)
 ### Open App
 App will open in background. Need to close from Task Manager.
 ### Open Browser on http://localhost:3456
