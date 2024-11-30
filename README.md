@@ -15,11 +15,11 @@ Click the link below to download the app for FREE:
 
 # 🚀 How to Use
 
-### Download the App
+## Download the App
 Use the link above to download the app.
 
 
-### Run the App
+## Run the App
 Double-click the .exe file to start the app.
 
 The app will run in the background.
@@ -27,7 +27,7 @@ The app will run in the background.
 Note: To close the app, use the tray icon or Task Manager (see below for updates).
 
 
-### Access the Spy Tool in Your Browser
+## Access the Spy Tool in Your Browser
 Open a browser (e.g., Chrome) and navigate to http://localhost:3456.
 
 Control TikTok live features such as Chat, Gifts, and Videos.
