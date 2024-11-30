@@ -10,13 +10,9 @@ App will open in background. Need to close from Task Manager.
 Open link in Chrome or any other browser
 
 # Screenshots
-## Connection State
+### Connection State Action Box for Chat & Gifts Control Buttons for LIVE and Video
 ![image](https://github.com/user-attachments/assets/b1c3b1ce-1a02-41fe-a3ac-c8b6cbcba740)
-
-## Action Box for Chat & Gifts
 ![image](https://github.com/user-attachments/assets/eec57443-56ec-454a-945f-5f813a315b7b)
-
-## Control Buttons for LIVE and Video
 ![image](https://github.com/user-attachments/assets/db8d1004-8cdc-464a-9660-82c2bc13258e)
 
 ## Video Player Size
